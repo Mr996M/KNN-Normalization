@@ -15,4 +15,4 @@ This file is the dataset of Helen's dating case, and you can download it from ht
 ### datingTestSet2.txt
 This file stores the remainder of the datingTestSet.txt file without the lines classified as didntLike, and the results data for classifying the dataset in datingTestSet2.txt file is recorded in Sheet2 of the test.xlsx file.
 ### fruit_data.txt
-You can download this file from https://download.csdn.net/download/u012965373/11875201?utm_medium=notify.im.downloadSource.20230810.a&username=qq_53467315 in China Software Developer Network. This is a simple classification dataset, and there is little difference in the values of the classification features. The classification features and classification of the dataset are separated by ",".
+You can download this file from https://download.csdn.net/download/u012965373/11875201?utm_medium=notify.im.downloadSource.20230810.a&username=qq_53467315 in China Software Developer Network. This is a simple classification dataset, and there is little difference in the values of the classification features. The classification features and classification of this dataset are separated by ",".
