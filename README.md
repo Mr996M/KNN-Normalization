@@ -7,7 +7,8 @@ The running process of the java code in the KNN folder is to enter a k value fir
 ![图片](https://github.com/Mr996M/KNN-Normalization/assets/126217198/4489124e-10a7-46cb-a4ea-fb3498433ea7)
 ![图片](https://github.com/Mr996M/KNN-Normalization/assets/126217198/d97b964d-bb55-4faf-a7b9-0fe911abbf19)
 ### Copy of KNN
-
+The java code in this folder is a change from the code in the KNN folder that calls the KNN classification algorithm in the main function. The code is modified to put the algorithm call into the loop body and run the code to print only the error rate. You can do one input and get ten classification error rates. The code runs as shown below:
+![图片](https://github.com/Mr996M/KNN-Normalization/assets/126217198/6c0d63d4-57a2-40d3-8b63-9b108a37859e)
 ### MATLAB
 Each .m file in the MATLAB folder is the image drawing of the data in the test.xlsx file in the KNN-normalization directory, which is used to analyze the effect of KNN classification algorithm using three distances to calculate, and horizontally compares the relationship between the error rates calculated by different distance formulas. The effect of whether the data set is normalized or not on the error rate is compared longitudinally. The scatter line chart of the function of the error rate and k value change and the fitting curve of part of the interval are plotted in each file.
 ### datingTestSet.txt
