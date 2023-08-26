@@ -1,5 +1,5 @@
 ## KNN-Normalization
-This resource repository stores java code to explore the influence of normalization on the accuracy of KNN classification algorithm. The dataset used for analysis comes from the network, and the results data of the experimental test are recorded in the test.xlsx file. The script files in the MATLAB folder are used to draw visualizations to analyze the data.
+This resource repository stores java code to explore the influence of normalization on the accuracy of KNN classification algorithm. The datasets used for analysis come from the network, and the results data of the experimental test are recorded in the test.xlsx file. The script files in the MATLAB folder are used to draw visualizations to analyze the data.
 ### KNN
 
 ### Copy of KNN
